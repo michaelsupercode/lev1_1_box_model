@@ -1,9 +1,14 @@
 p {
+  display: grid;
+  place-items: center;
   background-color: limegreen;
   border: solid black 10px;
-  width: 20vh;
-  margin: 8vh auto;
+  width: 20vw;
+  margin: 18vh auto;
   padding: 20px;
+}
+
+.basic {
 }
 
 h6 {
