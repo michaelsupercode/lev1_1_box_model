@@ -1,15 +1,23 @@
+body {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.basic {
+width: 30vw;
+}
+
 p {
   display: grid;
-  place-items: center;
-  background-color: limegreen;
+    background-color: limegreen;
   border: solid black 10px;
   width: 20vw;
   margin: 18vh auto;
   padding: 20px;
 }
 
-.basic {
-}
 
 h6 {
   margin: 5vh;
